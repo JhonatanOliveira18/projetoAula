@@ -19,6 +19,8 @@ public class VariaveisConstantes {
 		
 		System.out.println(nome);
 		System.out.print(QUANTIDADE);
+		
+		
 	}
 
 }
