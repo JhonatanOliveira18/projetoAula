@@ -29,7 +29,7 @@ public class ExemploSwitchCase {
 		default:
 			System.out.println("Opção inválida");
 		}
-
+		leia.close();
 	}
 
 }
