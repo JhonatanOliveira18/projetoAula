@@ -18,8 +18,7 @@ public class VariaveisConstantes {
 		final double AREA = 3.1415;
 		
 		System.out.println(nome);
-		System.out.print(QUANTIDADE);
-		
+		System.out.print(QUANTIDADE);	
 		
 	}
 

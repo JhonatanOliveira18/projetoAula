@@ -16,6 +16,8 @@ public class AulaScanner {
 		// Processamento
 		nome = e.nextLine();
 		
+		e.close();
+		
 		// Saída de dados
 		System.out.println("Bom dia, " + nome); //Concatenando
 	}

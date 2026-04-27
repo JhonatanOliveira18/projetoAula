@@ -15,6 +15,8 @@ public class AulaOperadores {
 		System.out.println("Insira a temperatura em Celsius: ");
 		celsius = e.nextFloat();
 		
+		e.close();
+		
 		fahrenheit = celsius * 1.8f + 32;
 		
 		// Saída de dados
